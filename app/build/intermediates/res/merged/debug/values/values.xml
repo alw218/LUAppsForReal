@@ -10,6 +10,7 @@
     <string name="action_settings">Settings</string>
     <string name="app_name">Demo</string>
     <string name="email">Email</string>
+    <string name="email_confirmation">An email has been sent to your inbox.</string>
     <string name="error_field_required">Field is required</string>
     <string name="facebook_login">Log In with Facebook</string>
     <string name="facebook_signup">Sign Up with Facebook</string>

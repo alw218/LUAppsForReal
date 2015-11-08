@@ -53,12 +53,6 @@ category#android.intent.category.LAUNCHER
 ADDED from /Users/amberwallace/Downloads/LUApps/app/src/main/AndroidManifest.xml:24:17-77
 	android:name
 		ADDED from /Users/amberwallace/Downloads/LUApps/app/src/main/AndroidManifest.xml:24:27-74
-activity#com.example.demo.MainFragment
-ADDED from /Users/amberwallace/Downloads/LUApps/app/src/main/AndroidManifest.xml:27:9-30:20
-	android:label
-		ADDED from /Users/amberwallace/Downloads/LUApps/app/src/main/AndroidManifest.xml:29:13-65
-	android:name
-		ADDED from /Users/amberwallace/Downloads/LUApps/app/src/main/AndroidManifest.xml:28:13-57
 meta-data#userapp.AppId
 ADDED from /Users/amberwallace/Downloads/LUApps/app/src/main/AndroidManifest.xml:32:9-81
 	android:name
