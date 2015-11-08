@@ -55,15 +55,15 @@ public class SignupFragment extends AuthFragment {
 			((TextView) getView().findViewById(R.id.error_text)).setText("");
 			
 			// Need to verify the email address?
-			if (verified == false) {
+			if (!verified) {
 				// Hide the loader
 				getView().findViewById(R.id.signup_form).setVisibility(View.VISIBLE);
 				getView().findViewById(R.id.signup_status).setVisibility(View.GONE);
 				
-				((TextView) getView().findViewById(R.id.error_text)).setText("An email has been sent to your inbox.");
+				((TextView) getView().findViewById(R.id.error_text)).setText(R.string.email_confirmation);
 			} else {
 				// Call the superclass to log in the signed up user
-				super.onSignupCompleted(user, verified, exception);
+				super.onSignupCompleted(user, true, null);
 			}
 		}
 	}
