@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/amberwallace/Downloads/LUApps/app/libs/json-20131018.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c5b366c02a8dfca2b1d8ba1a0c4d2e666a2eeb75">
+        <dex dex="/Users/amberwallace/Downloads/LUApps/app/build/intermediates/pre-dexed/debug/json-20131018-5c8bb27bc3110b3e060e43c92f5921a6448e4588.jar" />
+    </item>
+    <item
+        jar="/Users/amberwallace/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/amberwallace/Downloads/LUApps/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-2d5871ae2a4c00256c453c9deffa637edd66d8c2.jar" />
+    </item>
+    <item
+        jar="/Users/amberwallace/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/amberwallace/Downloads/LUApps/app/build/intermediates/pre-dexed/debug/gson-2.3.1-19763c4dc9b1e955ea79026745e0baacb34a20c1.jar" />
+    </item>
+    <item
+        jar="/Users/amberwallace/Downloads/LUApps/app/libs/userapp-android.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ce072968aed2a264e9bd07764472e6a4796119ae">
+        <dex dex="/Users/amberwallace/Downloads/LUApps/app/build/intermediates/pre-dexed/debug/userapp-android-582bed41d0f904a2dc36e5b24e4d41b23db5ea6c.jar" />
+    </item>
+
+</items>
