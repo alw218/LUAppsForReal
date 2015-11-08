@@ -24,10 +24,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <!--
         <activity
             android:name="com.example.demo.MainFragment"
             android:label="@string/title_activity_main_fragment" >
         </activity>
+        -->
 
         <meta-data
             android:name="userapp.AppId"
